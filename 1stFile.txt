@@ -1,11 +1,8 @@
-Hi This is Manish.....!
-
-<<<<<<< HEAD
-How u guys are...?
-
+Hi This is Manish....!
 
 Im good hope u ppl are doing good.!
 
-=======
->>>>>>> 14182e60a0e1341fe201c3a8307f10a31eab2995
 This file is for Assignment
+
+Everything looks good!
+

@@ -1,9 +1,4 @@
 This is my second file.
 
-<<<<<<< HEAD
-manish.
+My name is manishRana.
 
-from punjab.
-=======
-manishRana.
->>>>>>> 14182e60a0e1341fe201c3a8307f10a31eab2995
